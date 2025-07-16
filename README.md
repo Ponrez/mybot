@@ -15,7 +15,7 @@
 - Создайте config.py в корне проекта
 - Заполните переменные в config.py
     - BOT_TOKEN = "ваш токен бота"
-    - ADMIN_ID = 123456789 # ваш Telegram user_id
+    - ADMIN_ID = "ваш Telegram user_id"
 - Запустите бота командой "python main.py"
 - Бот запущен. Можете тестировать
 
