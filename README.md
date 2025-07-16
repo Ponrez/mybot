@@ -12,7 +12,7 @@
     - Найдите бота @userinfobot
     - Напишите ему /start
     - Он скинет вам id
-- Создайте config.py
+- Создайте config.py в корне проекта
 - Заполните переменные
     - BOT_TOKEN = "ваш токен бота"
     - ADMIN_ID = 123456789 # ваш Telegram user_id
